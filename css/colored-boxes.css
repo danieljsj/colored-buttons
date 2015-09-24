@@ -51,6 +51,10 @@ body .content-box-yellow {
 
 /* Color Buttons
 ------------------------------------------------------------ */
+
+body .button {
+	text-decoration: none;
+}
  
 .button-blue,
 .button-gray,
